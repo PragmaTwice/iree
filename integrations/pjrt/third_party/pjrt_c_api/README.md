@@ -9,4 +9,4 @@ releases.
 Last synced from:
 
 * https://github.com/openxla/xla.git
-* commit: a454e14ab0b10e35fb8ad73bd6db7d93782114f6
+* commit: 197d246c94872fbde4f725c4eacd503449dedbc7
